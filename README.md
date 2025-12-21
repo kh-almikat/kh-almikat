@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Khondoker Almikat
+### Hi, I'm Khondoker Almikat
 ![](https://github.com/kh-almikat/kh-almikat/blob/main/Gemini_Generated_Image_jab4uejab4uejab4.png?raw=true)
 
 I'm student of Computer Science and Engineering (CSE) student at Patuakhali Science and Technology University (PSTU), Bangladesh.
