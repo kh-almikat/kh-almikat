@@ -25,7 +25,7 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kh-almikat&" alt="kh-almikat" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kh-almikat&show_icons=true&locale=en&layout=compact" alt="kh-almikat" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kh-almikat&show_icons=true&locale=en" alt="kh-almikat" /></p>
 
