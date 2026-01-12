@@ -1,24 +1,23 @@
-name: Generate Contribution Snake
+name: Generate Snake Animation
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # every day
-  workflow_dispatch:
+  schedule: # প্রতি 12 ঘন্টায় auto run
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # manual run করার option
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: kh-almikat
-          outputs: |
-            dist/snake-dark.svg?palette=github-dark
+          github_user_name: kh-almikat   # তোমার সঠিক GitHub username
+          outputs: dist/snake.svg
 
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
