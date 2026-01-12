@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kh-almikat&label=Profile%20views&color=0e75b6&style=flat" alt="kh-almikat" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ec855ab535527db010006f6ec3e3b844e4aa61bba1f79af88f49a082400cb170/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
-👨‍💻 About Me    
+
+## 👨‍💻 About Me    
 
 
 I'm student of Computer Science and Engineering (CSE) student at Patuakhali Science and Technology University (PSTU), Bangladesh.
