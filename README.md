@@ -46,15 +46,11 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
 
 <p align="center">
   <strong>Thanks for visiting!</strong><br>
-
 </p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow line" width="100%">
 </div>
 
-
-
----
 
 
