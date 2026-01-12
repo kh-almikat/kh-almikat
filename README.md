@@ -26,25 +26,10 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
 
 ## 📊 GitHub Stats
 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kh-almikat&theme=github_dark)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kh-almikat&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kh-almikat&theme=dark" width="48%" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kh-almikat&theme=github-dark" />
-</p>
-
----
-
-## 💻 Top Languages by Commit
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-almikat&layout=donut&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kh-almikat&theme=github_dark" alt="GitHub Stats" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kh-almikat&theme=github_dark" alt="Most Used Languages" width="400"/>
 </p>
 
 ---
