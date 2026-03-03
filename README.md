@@ -52,14 +52,34 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
 
 <h2 align="center">🤝 Connect With ME</h2>
 <p align="center">
-<a href="https://fb.com/almikat ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="almikat ahmed" height="40" width="50" /></a>
- <a href="https://instagram.com/almikat_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="almikat_ahmed" height="40" width="50" /></a>
-<a href="https://codeforces.com/profile/almikat ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="almikat ahmed" height="40" width="50" /></a>
+<a href="https://www.facebook.com/almikat.ahmed" target="_blank">
+  <img src="https://img.icons8.com/color/50/facebook-new.png" width="50"/>
+</a>
+
+<a href="https://linkedin.com/in/yourusername" target="_blank">
+  <img src="https://img.icons8.com/color/50/linkedin.png" width="50"/>
+</a>
+
+<a href="https://github.com/kh-almikat" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="50"/>
+</a>
+
+<a href="https://codeforces.com/profile/almikat_ahmed" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="50"/>
+</a>
+
+<a href="https://www.instagram.com/almikat.ahmed" target="_blank">
+  <img src="https://img.icons8.com/color/50/instagram-new.png" width="50"/>
+</a>
 </p>
+
+
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=kh-almikat&label=Profile%20views&color=0e75b6&style=flat" alt="kh-almikat" /> </p>
 </h2>
+
+
 
 
 <p align="center">
