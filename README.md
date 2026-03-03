@@ -25,9 +25,7 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
 <h2 align="center">Github Stats</h2>
 
 
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kh-almikat&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&fire=FBB741" alt="GitHub streak"/>
-</p>
+ 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kh-almikat&theme=github_dark" alt="GitHub Stats" width="400"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kh-almikat&theme=github_dark" alt="Most Used Languages" width="400"/>
