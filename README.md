@@ -59,8 +59,8 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
  
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kh-almikat&theme=github_dark)
 
- <img src="https://raw.githubusercontent.com/kh-almikat/kh-almikat/output/snake-dark.svg" alt="blue snake animation" />
- 
+
+<img src="https://raw.githubusercontent.com/kh-almikat/kh-almikat/output/snake-dark.svg" alt="snake animation with dark background" />
 
 <h2 align="center">🤝 Connect With ME</h2>
 <p align="center">
