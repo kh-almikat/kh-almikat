@@ -59,12 +59,7 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
  
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kh-almikat&theme=github_dark)
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kh-almikat/kh-almikat/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kh-almikat/kh-almikat/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kh-almikat/kh-almikat/output/pacman-contribution-graph.svg">
-</picture>
-
+ <img src="https://raw.githubusercontent.com/kh-almikat/kh-almikat/output/snake-dark.svg" alt="blue snake animation" />
  
 
 <h2 align="center">🤝 Connect With ME</h2>
