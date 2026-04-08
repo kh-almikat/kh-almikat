@@ -12,7 +12,7 @@ jobs:
       - name: Generate pacman graph
         uses: Platane/snk@v3
         with:
-          github_user_name: faysalmahamudhimel
+          github_user_name: kh-almikat
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
