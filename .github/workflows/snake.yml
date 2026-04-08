@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Blue Snake (Dark)
 
 on:
   schedule:
@@ -10,13 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake (light & dark)
+      - name: Generate blue snake (dark)
         uses: Platane/snk@v3
         with:
           github_user_name: kh-almikat
           outputs: |
-            dist/snake-light.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg?palette=github-dark&color_snake=blue
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
