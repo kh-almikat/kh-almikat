@@ -60,7 +60,7 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kh-almikat&theme=github_dark)
 
 
-![Snake animation](https://github.com/shaidmeheraj/shaidmeheraj/blob/output/snake.svg)
+
 
 <h2 align="center">🤝 Connect With ME</h2>
 <p align="center">
