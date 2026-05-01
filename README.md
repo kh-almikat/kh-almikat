@@ -53,12 +53,14 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kh-almikat&theme=github_dark" alt="GitHub Stats" width="400"/>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kh-almikat&theme=github_dark" alt="Most Used Languages" width="400"/>
+
+
 </p>
 
- 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kh-almikat&theme=github_dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kh-almikat&theme=dark)
 
 
 
