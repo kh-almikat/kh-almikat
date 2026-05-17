@@ -52,7 +52,7 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
 
  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kh-almikat&theme=highcontrast&hide_border=false" width="450"/>
+  <img src="https://streak-stats.demolab.com?user=kh-almikat&theme=highcontrast&hide_border=false" width="400"/>
 
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=kh-almikat&theme=dark" width="400"/>
 
