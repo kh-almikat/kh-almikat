@@ -52,9 +52,9 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
 
  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kh-almikat&theme=github_dark" alt="GitHub Stats" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=kh-almikat&theme=vision-friendly-dark&hide_border=true" width="500"/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kh-almikat&theme=github_dark" alt="Most Used Languages" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kh-almikat&theme=github_dark" alt="Most Used Languages" width="350"/>
 
 
 </p>
