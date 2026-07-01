@@ -61,6 +61,10 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
 </p>
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kh-almikat/kh-almikat/output-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kh-almikat&theme=dark)
 
 
