@@ -75,7 +75,7 @@ Beginner-level programmer focused on learning coding fundamentals and problem so
   <img src="https://img.icons8.com/color/50/facebook-new.png" width="50"/>
 </a>
 
-<a href="https://linkedin.com/in/yourusername" target="_blank">
+<a href="https://www.linkedin.com/in/khondoker-almikat/" target="_blank">
   <img src="https://img.icons8.com/color/50/linkedin.png" width="50"/>
 </a>
 
